@@ -1,4 +1,4 @@
-@rmflight@mastodon.social,Robert M Flight,open_science reproducibility rstats bioinformatics
+account,name,keywords
 @rmrahal@nerdculture.de,Rima-Maria Rahal,open_science replicability reproducibility open_educational_resources
 @schultem@scicomm.xyz,Michael Schulte-Mecklenbeck,open_science open_data replicability reproducibility
 @epizyklen@nerdculture.de,Maximilian Frank,open_science meta_science replicability reproducibility ECR
@@ -107,7 +107,7 @@
 @khinsen@scholar.social,Konrad Hinsen,open_science open_computation computer_aided_research computational_media digital_scientific_notations reproducibility
 @JoseEdGomes@mstdn.science,José Eduardo Gomes,open_science reproducibility cell_biology developmental_biology cancer_biology
 @OtwartaNauka@mstdn.social,Open Science Poland,open_science otwarta_nauka open_access open_research open_data
-@owlyph@cosocial.ca,Joshua Chalifour,open_access open_scholarship open_science
+@owlyph@social.coop,Joshua Chalifour,open_access open_scholarship open_science
 @drb@scholar.social,Devin Berg,preprints preprint_servers engineering open_access open_engineering
 @essepuntato@scholar.social,Silvio Peroni,open_infrastructures semantic_publishing computer_science digital_humanities science_of_science
 @niamhpage@mastodon.ie,Niamh Tumelty,open_research community_building open_access open_data
@@ -227,7 +227,7 @@
 @rmounce@mastodon.social,Ross Mounce,open_access open_science open_peer_review preprints open_infrastructure
 @oatp@fediscience.org,Open Access Tracking Project (Bot),open_acces open_data open_science  schol_comm
 @NewScience101@mastodon.social,New Science 101,open_science open_access open_educational_resources
-@kristenratan@mstdn.social,Kristen Ratan,open_research metascience open_science research-on-research
+@kristenratan@mstdn.social,Kristen Ratan,open_research meascience open_science research-on-research
 @pcirr@spore.social,Peer Community in Registered Reports,registered_reports open_peer_review
 @RonnyGey@openbiblio.social,Ronny Gey,research_data research_data_management open_science research_software rse science_evaluation policy
 @ninaweis@openbiblio.social,Nina Weisweiler,Helmholtz_Open_Science_Office Helmholtz_Metadata_Collaboration research_data metadata re3data
