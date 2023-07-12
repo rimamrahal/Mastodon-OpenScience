@@ -247,7 +247,7 @@ account,name,keywords
 @fresseng@fediscience.org,Nicolas Ressengeas,open_science open_data open_software research_assessment meta_research PID
 @openbiblio.social@openaccessnetwork,open-access.network, open_access open_science oer networking training
 @egonw@scholar.social,Egon Willighagen,open_science open_source schol_comm open_data bioinformatics chemistry
-@digidaktik@bildung.social,Digidaktik,
+@digidaktik@bildung.social,Digidaktik,digital_media media_education media_literacy IT_security communication gender queer Medienkompetenz Medienbildung Medienpädagogik
 @allysonlister@fediscience.org,Allyson Lister,FAIR open_data open_science RDM research_data_management ontologies
 @fairsharing@fediscience.org,FAIRsharing,FAIR open_science open_data standards databases data_policies RDM research_data_management
 @floe@hci.social,Florian Echtler,open_science open_source open_access citizen_science diamond_oa open_peer_review
@@ -257,3 +257,6 @@ account,name,keywords
 @samteplitzky@sfba.social,Sam Teplitzky,open_science reproducibility community open_infrastructure
 @cark@social.tchncs.de,Carsten K.,FAIR control_engineering explainable_AI knowledge_representation computational_ontology python
 @ktoddbrown@social.coop,Kathe Todd-Brown,open_science open_data climate_science soil modeling collaborative_science FAIR CARE
+@jade_pickering@mas.to,Jade Pickering,
+@Tontrug@mastodon.social,Michael Höfler,confirmation exploration causal_inference statistics clinical_psychology
+@HelenaPaterson,Helena Paterson,open_science open_education oer open_data higher_education inclusive_pedagogy teaching_reproducibility
